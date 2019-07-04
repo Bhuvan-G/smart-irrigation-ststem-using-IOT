@@ -1,0 +1,7 @@
+Arduino        ESP8266
+3.3V           Vcc
+Gnd            Gnd
+Rx             Rx
+Tx             Tx
+Reset          Reset
+3.3v           CH_PD
